@@ -84,6 +84,7 @@ ol,ul{
 table{
     border: 1px solid black;
     margin-bottom: 30px;
+    margin-left: 50px;
 }
 
 thead td{
