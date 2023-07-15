@@ -19,12 +19,20 @@ header p {
   padding-bottom: 29px;
   padding-left: 38px;
 }
-.heading_1,.heading_2{
+.heading_1{
     margin-left: 38px;
     margin-top: 53px;
     font-size: 64px;
     font-weight: 300;
     
+}
+.heading_2{
+    margin-left: 38px;
+    margin-top: 53px;
+    font-size: 64px;
+    font-weight: 300;
+    padding-bottom: 40px;
+
 }
 #content_1{
     margin-left: 38px;
